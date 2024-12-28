@@ -1,0 +1,9 @@
+0x....
+
+------
+
+Paste the wallet's private key you want to use in the first line for the `supply` command, 
+this file is used by default for the `--private-key` option.
+
+You can also use your own file containing the private key on the first line by specifying 
+the file path with the option.
