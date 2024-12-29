@@ -1,0 +1,9 @@
+{
+    "supplier_private_key": "0x...", // Private key of the supplier for the supply command (required)
+    "network": [
+        {
+            "arbitrum-sepolia": "https://sepolia-rollup.arbitrum.io/rpc"
+        }
+        // Add more networks here and use with --network flag with key name
+    ]
+}
